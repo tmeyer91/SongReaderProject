@@ -1,0 +1,288 @@
+<song>
+  <title>
+    The Trapeze Swinger
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+   <album>
+    The Trapeze Swinger - Single
+  </album>
+<playcount>
+    100
+  </playcount> 
+</song>
+
+
+
+<song>
+  <title>
+    Call It Dreaming
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Beast Epic
+  </album>
+  https://www.youtube.com/watch?v=BXC80ZXQhvQ&feature=share
+ <playcount>
+   99 
+</playcount> 
+</song>
+
+
+
+<song>
+  <title>
+    Passing Afternoon
+  </title>
+  Our Endless Numbered Days is the second full-length album from Iron & Wine. Released on March 23, 2004 on Sub Pop, it was the first non-solo effort by Sam Beam under his Iron & Wine moniker. Limited edition copies of the vinyl LP came with a bonus 7" vinyl single. Limited edition copies of the CD came with a bonus CD single.
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Our Endless Numbered Days
+  </album>
+  <playcount>
+    19
+  </playcount> 
+</song>
+
+
+
+<song>
+  <album>
+    Garden State Soundtrack
+  </album>
+  <title>
+    Such Great Heights
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+   55
+ 
+</playcount>
+ </song>
+
+
+
+<song>
+  <album>
+    Kiss Each Other Clean
+  </album>
+  <title>
+    Half Moon
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+    13
+  </playcount>
+ </song>
+
+<song>
+  <album>
+    Kiss Each Other Clean
+  </album>
+  <title>
+    Half Moon
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+ 44 
+</playcount>
+</song>
+
+<song>
+  <title>
+    The Trapeze Swinger
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+   <album>
+    The Trapeze Swinger - Single
+  </album>
+<playcount>
+    25  
+</playcount>
+</song>
+
+
+
+<song>
+  <title>
+    Call It Dreaming
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Beast Epic
+  </album>
+  https://www.youtube.com/watch?v=BXC80ZXQhvQ&feature=share
+ <playcount>
+   66 
+</playcount>
+</song>
+
+
+
+<song>
+  <title>
+    Passing Afternoon
+  </title>
+  Our Endless Numbered Days is the second full-length album from Iron & Wine. Released on March 23, 2004 on Sub Pop, it was the first non-solo effort by Sam Beam under his Iron & Wine moniker. Limited edition copies of the vinyl LP came with a bonus 7" vinyl single. Limited edition copies of the CD came with a bonus CD single.
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Our Endless Numbered Days
+  </album>
+  <playcount>
+    3
+  </playcount>
+</song>
+
+
+
+<song>
+  <album>
+    Garden State Soundtrack
+  </album>
+  <title>
+    Such Great Heights
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+   15 
+</playcount>
+
+</song>
+
+
+
+<song>
+  <album>
+    Kiss Each Other Clean
+  </album>
+  <title>
+    Half Moon
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+    21
+  </playcount>
+
+</song>
+
+<song>
+  <album>
+    Kiss Each Other Clean
+  </album>
+  <title>
+    Half Moon
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+ 42 
+</playcount>
+</song>
+
+<song>
+  <title>
+    The Trapeze Swinger
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+   <album>
+    The Trapeze Swinger - Single
+  </album>
+<playcount>
+    75  
+</playcount>
+</song>
+
+
+
+<song>
+  <title>
+    Call It Dreaming
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Beast Epic
+  </album>
+  https://www.youtube.com/watch?v=BXC80ZXQhvQ&feature=share
+ <playcount>
+   60 
+</playcount>
+</song>
+
+
+
+<song>
+  <title>
+    Passing Afternoon
+  </title>
+  Our Endless Numbered Days is the second full-length album from Iron & Wine. Released on March 23, 2004 on Sub Pop, it was the first non-solo effort by Sam Beam under his Iron & Wine moniker. Limited edition copies of the vinyl LP came with a bonus 7" vinyl single. Limited edition copies of the CD came with a bonus CD single.
+  <artist>
+    Iron & Wine
+  </artist>
+  <album>
+    Our Endless Numbered Days
+  </album>
+  <playcount>
+    35
+</playcount>
+</song>
+
+
+
+<song>
+  <album>
+    Garden State Soundtrack
+  </album>
+  <title>
+    Such Great Heights
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+   1000
+  </playcount>
+</song>
+
+
+
+<song>
+  <album>
+    Kiss Each Other Clean
+  </album>
+  <title>
+    Half Moon
+  </title>
+  <artist>
+    Iron & Wine
+  </artist>
+  <playcount>
+    7777
+  </playcount>
+</song>
+
